@@ -1,4 +1,4 @@
-### Amphipolis Board Game Overview
+## Amphipolis Board Game Overview
 
 Amphipolis is a board game designed by Reiner Knizia, where players take on the roles of archaeological teams working to save as many artifacts as possible from an archaeological site threatened by landslides. The game combines elements of strategy, timing, and resource management as players compete to gather the most valuable artifacts before the site becomes inaccessible due to landslides.
 
