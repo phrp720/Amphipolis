@@ -15,6 +15,7 @@ This project was initiated in 2021 as part of academic coursework aimed at simul
 - **Java**: The programming language used throughout the project.
 - **Maven**: A build automation tool used for dependency management and project assembly.
 - **Java AWT/Swing**: Libraries used for creating the graphical user interface.
+- **JUnit**: A unit testing framework used for testing the application's components.
 
 ## Getting Started
 
